@@ -1,4 +1,4 @@
-🛡️ MEV Protection Engine
+**🛡️ MEV Protection Engine**
 Protecting users from harmful MEV (Maximum Extractable Value) during token swaps
 📌 Overview
 
