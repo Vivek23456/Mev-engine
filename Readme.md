@@ -184,7 +184,4 @@ mev-protection-engine/
 This project is designed for user protection only.
 It must not be used to exploit MEV or harm network participants.
 
-🤝 Contributions
-
-PRs, ideas, and improvements are welcome.
-Let’s build safer and fairer DeFi infrastructure.
+ 
